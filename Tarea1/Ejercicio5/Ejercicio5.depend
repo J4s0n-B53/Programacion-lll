@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1721406997 source:c:\users\aliso\desktop\progra iii\tarea1\ejercicio5\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Telefono.h"
+
+1721406997 c:\users\aliso\desktop\progra iii\tarea1\ejercicio5\telefono.h
+
